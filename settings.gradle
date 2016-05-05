@@ -1,0 +1,1 @@
+include ':app', ':bsh-core-2.0b4'
